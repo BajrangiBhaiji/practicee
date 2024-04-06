@@ -27,6 +27,6 @@ placeholders:
           src: /data/media/img/jss_logo.png
     - componentName: Uomponent
       fields:
-        copyright: copyright containing ttarun
+        copyright: copyright containing ttarun here
         image:
           src: /data/media/img/sc_logo.png
